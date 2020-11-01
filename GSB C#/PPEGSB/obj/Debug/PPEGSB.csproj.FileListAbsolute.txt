@@ -1,0 +1,74 @@
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\PPEGSB.exe.config
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\PPEGSB.exe
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\PPEGSB.pdb
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\MySql.Data.dll
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\Renci.SshNet.dll
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\bin\Debug\MySql.Data.xml
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.Medicaments.resources
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.Properties.Resources.resources
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.csproj.GenerateResource.cache
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.csproj.CopyComplete
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.exe
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.pdb
+C:\Users\santo\source\repos\PPEGSB\PPEGSB\obj\Debug\PPEGSB.RAPPORT_VISITE.resources
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\PPEGSB.exe.config
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\PPEGSB.exe
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\PPEGSB.pdb
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\MySql.Data.dll
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\Renci.SshNet.dll
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\bin\Debug\MySql.Data.xml
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csprojAssemblyReference.cache
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.FMenuPrincipal.resources
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.RAPPORT_VISITE.resources
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.Medicaments.resources
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.Properties.Resources.resources
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.GenerateResource.cache
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.CopyComplete
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.exe
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.pdb
+C:\Users\juju3\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.APropos.resources
+C:\Users\julie\Desktop\GSB C#\PPEGSB\bin\Debug\PPEGSB.exe.config
+C:\Users\julie\Desktop\GSB C#\PPEGSB\bin\Debug\PPEGSB.exe
+C:\Users\julie\Desktop\GSB C#\PPEGSB\bin\Debug\PPEGSB.pdb
+C:\Users\julie\Desktop\GSB C#\PPEGSB\bin\Debug\MySql.Data.xml
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csprojAssemblyReference.cache
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.APropos.resources
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.FMenuPrincipal.resources
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.RAPPORT_VISITE.resources
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.Medicaments.resources
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.Properties.Resources.resources
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.GenerateResource.cache
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.CoreCompileInputs.cache
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.CopyComplete
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.exe
+C:\Users\julie\Desktop\GSB C#\PPEGSB\obj\Debug\PPEGSB.pdb
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.APropos.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.FMenuPrincipal.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.EspaceConnection.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.FRapportsDeVisite.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.Medicaments.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.Properties.Resources.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.GenerateResource.cache
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.exe
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.pdb
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\PPEGSB.exe.config
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\PPEGSB.exe
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\PPEGSB.pdb
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\Google.Protobuf.dll
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\MySql.Data.dll
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\Renci.SshNet.dll
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\bin\Debug\MySql.Data.xml
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.csproj.CopyComplete
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.FPraticien.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.FPraticiens.resources
+C:\Users\santo\source\repos\PPEGSBv2\GSB C#\PPEGSB\obj\Debug\PPEGSB.FVisiteurs.resources

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F4834A9-2E83-4EBD-AC7A-FAB4D8A27B45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PPEGSB</RootNamespace>
+    <AssemblyName>PPEGSB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PPEGSB.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.3.0, Culture=neutral, PublicKeyToken=0e99375e54769942" />
+    <Reference Include="Google.Protobuf, Version=3.6.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604" />
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APropos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="APropos.Designer.cs">
+      <DependentUpon>APropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAOVisiteurs.cs" />
+    <Compile Include="FPraticiens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPraticiens.Designer.cs">
+      <DependentUpon>FPraticiens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVisiteurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVisiteurs.Designer.cs">
+      <DependentUpon>FVisiteurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypePraticien.cs" />
+    <Compile Include="DAOPraticiens.cs" />
+    <Compile Include="DAOTypePraticien.cs" />
+    <Compile Include="FPraticien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPraticien.Designer.cs">
+      <DependentUpon>FPraticien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Praticien.cs" />
+    <Compile Include="FRapportsDeVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRapportsDeVisite.Designer.cs">
+      <DependentUpon>FRapportsDeVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RapportDeVisite.cs" />
+    <Compile Include="DAORapportVisite.cs" />
+    <Compile Include="FMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMenuPrincipal.Designer.cs">
+      <DependentUpon>FMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EspaceConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EspaceConnection.Designer.cs">
+      <DependentUpon>EspaceConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicament.cs" />
+    <Compile Include="Connexion.cs" />
+    <Compile Include="DAOMedicament.cs" />
+    <Compile Include="DBInterface.cs" />
+    <Compile Include="Medicaments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicaments.Designer.cs">
+      <DependentUpon>Medicaments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ppegsbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ppegsbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Visiteur.cs" />
+    <EmbeddedResource Include="APropos.resx">
+      <DependentUpon>APropos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMenuPrincipal.resx">
+      <DependentUpon>FMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EspaceConnection.resx">
+      <DependentUpon>EspaceConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPraticien.resx">
+      <DependentUpon>FPraticien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPraticiens.resx">
+      <DependentUpon>FPraticiens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRapportsDeVisite.resx">
+      <DependentUpon>FRapportsDeVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVisiteurs.resx">
+      <DependentUpon>FVisiteurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicaments.resx">
+      <DependentUpon>Medicaments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ppegsbDataSet.xsc">
+      <DependentUpon>ppegsbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ppegsbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ppegsbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ppegsbDataSet.xss">
+      <DependentUpon>ppegsbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
